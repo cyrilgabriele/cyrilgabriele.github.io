@@ -1,5 +1,5 @@
-# cyrilgabriele.github.io
 **Dangers for children and the invisibility of the artificial context**
+
 In a world where AI is increasingly becoming part of our everyday lives, the issue of 'humanising' AI systems has become one of the most explosive and fascinating areas. The technology that once emerged in laboratories and research facilities is now inexorably influencing how we communicate, learn and view our world. This paradigm shift is interesting in many ways, but also poses profound dangers, especially for the youngest members of our society.
 The starting point for the reflections in this blog post was the section "3 Work Program: Reconguring a DL Assessment From a Humanities Perspective" by [Segessenmann et al.](https://dx.doi.org/10.2139/ssrn.4554234), in which artificial intelligence (AI) is analysed and discussed from a humanities perspective.
 This blog post also shows in more detail how companies are providing this technology to the youngest members of our society in a questionable way.
