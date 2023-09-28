@@ -1,4 +1,4 @@
-authors: Lukas Zimmermann , Cyril Gabriele
+authors: **Lukas Zimmermann**, **Cyril Gabriele**
 
 In a world where AI is increasingly becoming part of our everyday lives, the issue of 'humanising' AI systems has become one of the most explosive and fascinating areas. The technology that once emerged in laboratories and research facilities is now inexorably influencing how we communicate, learn and view our world. This paradigm shift is interesting in many ways, but also poses profound dangers, especially for the youngest members of our society.
 
@@ -16,7 +16,7 @@ Particularly noteworthy is the fact that on Snapchat, 60% of the user base is yo
 
 <p align="center">
   <img src="./docs/assets/images/SnapchatUserDiagramAIBlogbeitrag.png" alt="drawing" width="400"/>
-<p/>
+</p>
 
 Another significant aspect addressed by [Segessenmann et al.](https://dx.doi.org/10.2139/ssrn.4554234), which is increasingly in the spotlight in the world of artificial intelligence, concerns the transparency of the generated context of AI systems. In today's era, where AI models such as chatbots and voice assistants are almost ubiquitous, the question of whether the generated text comes from a human or a machine is crucial.
 It is disturbing how often we come across texts and responses created by AI systems today, without this fact being shown. When we read news, go through customer reviews or interact on social media, it is often difficult to tell whether the text written is by a real human or an algorithm. This leads to an invisible conflation of human and artificial contributions that affects our ability to critically evaluate information. The platform Stack Overflow, for example, blocks AI-generated posts from users. Too often, users answered another user's question using ChatGPT without checking the correctness of the post [2](https://www.zdnet.com/article/stack-overflow-temporarily-bans-answers-from-openais-chatgpt-chatbot/). 
