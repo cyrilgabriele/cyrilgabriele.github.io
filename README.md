@@ -12,7 +12,7 @@ But while this development is undoubtedly exciting, the impact of chatbots like 
 As AI systems become humanised, chatbots such as 'My AI' are becoming virtual conversation partners and fictional 'friends' for children and young people [Darling, 2017](https://doi.org/10.1093/oso/9780190652951.003.0012). This development raises serious concerns about the psychosocial impact. Children are at a sensitive stage of development and may have difficulty distinguishing between human interactions and interactions with AI systems. How does this affect their social and emotional development? What is the responsibility of companies like Snapchat when it comes to marketing such technologies to children?
 Particularly noteworthy is the fact that on Snapchat, 60% of the user base is younger than 24. In addition, 20% are even under 17 years old, as shown in the illustrative bar chart.
 
-<p>
+<p align="center">
   <img src="./docs/assets/images/SnapchatUserDiagramAIBlogbeitrag.png" alt="drawing" width="400"/>
 <p/>
 
