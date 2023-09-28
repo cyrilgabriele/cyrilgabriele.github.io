@@ -1,3 +1,5 @@
+authors: Lukas Zimmermann , Cyril Gabriele
+
 In a world where AI is increasingly becoming part of our everyday lives, the issue of 'humanising' AI systems has become one of the most explosive and fascinating areas. The technology that once emerged in laboratories and research facilities is now inexorably influencing how we communicate, learn and view our world. This paradigm shift is interesting in many ways, but also poses profound dangers, especially for the youngest members of our society.
 
 The starting point for the reflections in this blog post was the section "3 Work Program: Reconguring a DL Assessment From a Humanities Perspective" by [Segessenmann et al.](https://dx.doi.org/10.2139/ssrn.4554234), in which artificial intelligence (AI) is analysed and discussed from a humanities perspective.
@@ -33,4 +35,4 @@ The future will undoubtedly be shaped by AI, and we should not fear this technol
 
 In a world where humans and machines are increasingly merging, education and enlightenment is key. Let's work together to ensure that our children and future generations can take advantage of AI opportunities without losing their autonomy and critical thinking skills. We are on the threshold of an exciting but challenging era, and it is up to us to take the right steps to shape it positively.
 
-Keywords: AI, artificial intelligence, ethics, chatbot, 
+keywords: AI, artificial intelligence, ethics, chatbot, 
