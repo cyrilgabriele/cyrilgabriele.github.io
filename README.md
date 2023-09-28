@@ -15,7 +15,7 @@ As AI systems become humanised, chatbots such as 'My AI' are becoming virtual co
 Particularly noteworthy is the fact that on Snapchat, 60% of the user base is younger than 24. In addition, 20% are even under 17 years old, as shown in the illustrative bar chart.
 
 <p align="center">
-  <img src="./docs/assets/images/SnapchatUserDiagramAIBlogbeitrag.png" alt="drawing" width="400"/>
+  <img src="./docs/assets/images/SnapchatUserDiagramAIBlogbeitrag.png" alt="drawing" width="500"/>
 </p>
 
 Another significant aspect addressed by [Segessenmann et al.](https://dx.doi.org/10.2139/ssrn.4554234), which is increasingly in the spotlight in the world of artificial intelligence, concerns the transparency of the generated context of AI systems. In today's era, where AI models such as chatbots and voice assistants are almost ubiquitous, the question of whether the generated text comes from a human or a machine is crucial.
